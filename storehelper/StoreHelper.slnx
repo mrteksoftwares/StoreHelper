@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StoreHelper.App/StoreHelper.App.csproj" />
+    <Project Path="src/StoreHelper.Core/StoreHelper.Core.csproj" />
+    <Project Path="src/StoreHelper.Tests/StoreHelper.Tests.csproj" />
+  </Folder>
+</Solution>

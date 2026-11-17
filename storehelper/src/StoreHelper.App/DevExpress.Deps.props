@@ -1,0 +1,26 @@
+<Project>
+  <!-- DevExpress çalışma zamanı bağımlılıkları (doğrudan başvurulmayan ama tasarımcı/önizleme/yazdırma için yüklenenler). Sürüm değişirse yeniden üretin. -->
+  <ItemGroup>
+    <None Include="$(DevExpressBin)DevExpress.Charts.v26.1.Core.dll" Link="DevExpress.Charts.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.CodeParser.v26.1.dll" Link="DevExpress.CodeParser.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.DataVisualization.v26.1.Core.dll" Link="DevExpress.DataVisualization.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.Diagram.v26.1.Core.dll" Link="DevExpress.Diagram.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.Office.v26.1.Core.dll" Link="DevExpress.Office.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.Pdf.v26.1.Core.dll" Link="DevExpress.Pdf.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.Pdf.v26.1.Drawing.dll" Link="DevExpress.Pdf.v26.1.Drawing.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.PivotGrid.v26.1.Core.dll" Link="DevExpress.PivotGrid.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.RichEdit.v26.1.Core.dll" Link="DevExpress.RichEdit.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.Sparkline.v26.1.Core.dll" Link="DevExpress.Sparkline.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.Xpo.v26.1.dll" Link="DevExpress.Xpo.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraCharts.v26.1.dll" Link="DevExpress.XtraCharts.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraCharts.v26.1.Extensions.dll" Link="DevExpress.XtraCharts.v26.1.Extensions.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraCharts.v26.1.Wizard.dll" Link="DevExpress.XtraCharts.v26.1.Wizard.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraDiagram.v26.1.dll" Link="DevExpress.XtraDiagram.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraGauges.v26.1.Core.dll" Link="DevExpress.XtraGauges.v26.1.Core.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraNavBar.v26.1.dll" Link="DevExpress.XtraNavBar.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraPivotGrid.v26.1.dll" Link="DevExpress.XtraPivotGrid.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraRichEdit.v26.1.dll" Link="DevExpress.XtraRichEdit.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraTreeList.v26.1.dll" Link="DevExpress.XtraTreeList.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+    <None Include="$(DevExpressBin)DevExpress.XtraVerticalGrid.v26.1.dll" Link="DevExpress.XtraVerticalGrid.v26.1.dll" CopyToOutputDirectory="PreserveNewest" Visible="false" />
+  </ItemGroup>
+</Project>

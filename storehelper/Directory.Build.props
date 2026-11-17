@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <Version>1.0.3</Version>
+    <Company>Nemra</Company>
+    <Product>NemraPOS StoreHelper</Product>
+    <!-- DevExpress WinForms (Framework) derlemeleri. Başka bir sürüm/yol için: dotnet build -p:DevExpressBin="D:\...\Bin\Framework\" -->
+    <DevExpressBin Condition="'$(DevExpressBin)' == ''">C:\Program Files\DevExpress 26.1\Components\Bin\Framework\</DevExpressBin>
+  </PropertyGroup>
+</Project>
